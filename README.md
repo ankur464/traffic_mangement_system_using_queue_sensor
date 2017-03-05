@@ -1,1 +1,1 @@
-# traffic_mangement_system_using_queue_sensor
+# Circuit Diagram for Traffic Mangement System using queue sensor
